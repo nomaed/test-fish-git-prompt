@@ -1,1 +1,1 @@
-# test-fist-git-prompt
+# test-fish-git-prompt
