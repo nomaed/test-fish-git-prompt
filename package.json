@@ -1,0 +1,54 @@
+{
+  "name": "test-fish-git-prompt",
+  "version": "0.0.1",
+  "description": "Test repository for large number of untracked files",
+  "main": "",
+  "scripts": {
+  },
+  "author": "Boris Aranovich",
+  "license": "None",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "d3": "^3.5.17"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^1.1.1",
+    "babel-core": "^6.11.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "bower": "^1.7.9",
+    "chai": "^3.5.0",
+    "chalk": "^1.1.3",
+    "clean-webpack-plugin": "^0.1.10",
+    "css-loader": "^0.23.1",
+    "del": "^2.2.1",
+    "dts-builder": "^1.0.4",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
+    "gulp": "^3.9.1",
+    "gulp-chmod": "^1.3.0",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-concat": "^2.6.0",
+    "gulp-debug": "^2.1.2",
+    "gulp-if": "^2.0.1",
+    "gulp-sizereport": "^1.1.3",
+    "gulp-uglify": "^1.5.4",
+    "html-loader": "^0.4.3",
+    "http-server": "^0.9.0",
+    "mocha": "^2.5.3",
+    "ng-annotate-webpack-plugin": "^0.1.3",
+    "ngtemplate-loader": "^1.3.1",
+    "run-sequence": "^1.2.2",
+    "should": "^8.4.0",
+    "sort-stream": "^1.0.1",
+    "style-loader": "^0.13.1",
+    "typescript": "^1.8.10",
+    "typings": "^1.3.2",
+    "webpack": "^1.13.1",
+    "yargs": "^4.8.1"
+  },
+  "private": false,
+  "engines": {
+    "node": "^5.0.0"
+  }
+}
